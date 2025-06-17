@@ -4,7 +4,7 @@
 > 
 > **Étudiants :**
 > 
-> - *Damien Vailland** 
+> - *Damien Vailland*
 > - *Axel Plessis*
 >   
 > **Date** : 24/09/2024
