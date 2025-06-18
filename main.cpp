@@ -1,16 +1,15 @@
 /****************************************************************************
  *
  *
- * Copyright (C) 2016 Universit� de Rennes 1. All rights reserved.
+ * Copyright (C) 2025 Université de Rennes. All rights reserved.
  *
  * This software was developed at:
- * Universite de Rennes 1
+ * Universite de Rennes
  * Campus Universitaire de Beaulieu
  * 35042 Rennes Cedex
  *
  * This file uses the ViSP library.
  *
- 
 *
 *****************************************************************************/
 
@@ -22,7 +21,7 @@ tp5.cpp : Morphologie
 
 /****************************************************************************
  * NOMS - PRENOMS:
- *  - VAILLAND Damien
+ * - VAILLAND Damien
  *	- PLESSIS Axel
 *
 * Date :  25/10/2024
