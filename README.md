@@ -1,6 +1,6 @@
 # TP5 - Morphologie Mathématique en C++ avec ViSP
 
-> **BINP - Université de Rennes 1**
+> **BINP - Université de Rennes**
 > 
 > **Étudiants :**
 > 
